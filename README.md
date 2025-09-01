@@ -24,7 +24,6 @@ This project explores automated bird species identification using deep learning 
 ## **How to Run**
 - Clone the repository
 - Install dependencies: pip install tensorflow librosa numpy pandas matplotlib seaborn scikit-learn h5py scipy
-- Download spectrograms.h5 from the data/ folder
-- Download test audio files from the data/test_birds/ folder
+- For similar data, visit [Xeno-Canto](https://xeno-canto.org/)
 - Open notebooks/bird_sound_classification.ipynb
 - Run all cells to reproduce results
